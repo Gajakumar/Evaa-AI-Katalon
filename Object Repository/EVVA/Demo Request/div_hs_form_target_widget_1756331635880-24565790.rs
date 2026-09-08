@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_hs_form_target_widget_1756331635880-24565790</name>
+   <tag></tag>
+   <elementGuidId>f823f453-1287-4081-aae1-a75aba12fecc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.hsfc-DataPrivacyField .hsfc-RichText</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' hsfc-DataPrivacyField ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' hsfc-RichText ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#hs_form_target_widget_1756331635880-2456579027164-li-rt0-pp</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e94c434d-4dcb-41af-8723-9eb3e001a89c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hsfc-id</name>
+      <type>Main</type>
+      <value>RichText</value>
+      <webElementGuid>23ffbef2-7f2b-4e69-adb9-fee0e8a55b5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>hs_form_target_widget_1756331635880-2456579027164-li-rt0-pp</value>
+      <webElementGuid>8792a7b2-3b0c-4b99-819c-a00e1c0d5ba1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hsfc-RichText</value>
+      <webElementGuid>793c3e40-0677-4771-bf36-185f66c64eee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>By clicking submit, you are providing express consent to be contacted by EVAA.AI via SMS, call, or email, possibly using automated technology to the number you provided.  If you wish to opt-out of communication, please reply &quot;STOP&quot;. text &quot;HELP&quot; for help. Message/data rates may apply. Message frequency may vary. Submission of this form does not authorize the purchase of goods, services, or products. See the privacy policy/Terms and Conditions on the webpage.</value>
+      <webElementGuid>2ac258cc-4da0-4e7c-876b-c7e792167783</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-8088433bd9945dd425a1aaa4a5393d75</value>
+      <webElementGuid>661b1c1d-16b1-4f82-84c3-53a01bb3b5f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' hsfc-DataPrivacyField ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' hsfc-RichText ')]</value>
+      <webElementGuid>7d306cbd-c229-410c-9aa2-8d06575c4d3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' hsfc-DataPrivacyField ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' hsfc-RichText ')]</value>
+      <webElementGuid>b4125632-4e06-4803-9b3b-44b3ef83bc98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'hs_form_target_widget_1756331635880-2456579027164-li-rt0-pp' and (text() = 'By clicking submit, you are providing express consent to be contacted by EVAA.AI via SMS, call, or email, possibly using automated technology to the number you provided.  If you wish to opt-out of communication, please reply &quot;STOP&quot;. text &quot;HELP&quot; for help. Message/data rates may apply. Message frequency may vary. Submission of this form does not authorize the purchase of goods, services, or products. See the privacy policy/Terms and Conditions on the webpage.' or . = 'By clicking submit, you are providing express consent to be contacted by EVAA.AI via SMS, call, or email, possibly using automated technology to the number you provided.  If you wish to opt-out of communication, please reply &quot;STOP&quot;. text &quot;HELP&quot; for help. Message/data rates may apply. Message frequency may vary. Submission of this form does not authorize the purchase of goods, services, or products. See the privacy policy/Terms and Conditions on the webpage.')]</value>
+      <webElementGuid>36a56934-f9a7-4176-9e50-7e514bd3c600</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_State_Region</name>
+   <tag></tag>
+   <elementGuidId>4c8181f3-5349-4c62-b6a6-421edd124e49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.hsfc-Row:nth-child(4) .hsfc-TextField span span:nth-child(1)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' hsfc-Row ') and (position() = 4)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' hsfc-TextField ')]//span//*[(name() = 'span') and (position() = 1)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;State/Region&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d2b27348-422f-4aa4-83c0-1c45e685b72a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>State/Region</value>
+      <webElementGuid>6bd5dd19-45bf-44f0-967e-39b09a698143</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-69a0e52c95ea40771c3af3916ce4638d</value>
+      <webElementGuid>c8531e20-7e34-4f28-8b8a-2052d7d90f5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' hsfc-Row ') and (position() = 4)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' hsfc-TextField ')]//span//*[(name() = 'span') and (position() = 1)]</value>
+      <webElementGuid>cd5d0226-6432-4ec8-8cb4-4cfb827d84bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' hsfc-Row ') and (position() = 4)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' hsfc-TextField ')]//span//*[(name() = 'span') and (position() = 1)]</value>
+      <webElementGuid>d14fdaa1-1d83-403e-8009-f34a21787dbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'State/Region' or . = 'State/Region')]</value>
+      <webElementGuid>b373e368-7fd1-44a4-b6a3-b9ccafe0cca4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Intelliscan</name>
+   <tag></tag>
+   <elementGuidId>c7ff6985-1f44-493c-b342-e29d1a02f4c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-child(4) > .hsfc-FieldLabel span span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'div') and (position() = 4)]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' hsfc-FieldLabel ')]//span//span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Intelliscan&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cda63ccf-85b9-48e9-bcfd-ce741804da49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Intelliscan</value>
+      <webElementGuid>192846f0-0ecf-4337-bcf4-f10f8889d1cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-8c4d95bd32e8be1a96db50347975991f</value>
+      <webElementGuid>c8a7f21a-ee39-47e6-b1e2-48fb23df67de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 4)]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' hsfc-FieldLabel ')]//span//span</value>
+      <webElementGuid>a32aeef1-14f6-4e3b-b84d-1936d79818b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 4)]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' hsfc-FieldLabel ')]//span//span</value>
+      <webElementGuid>ec0ce71e-f4b5-44d5-907f-147a1092ea88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Intelliscan' or . = 'Intelliscan')]</value>
+      <webElementGuid>ad5230d3-087e-4423-abc3-adc37fdbb689</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

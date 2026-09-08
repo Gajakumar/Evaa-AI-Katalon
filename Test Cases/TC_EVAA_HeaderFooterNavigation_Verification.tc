@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_EVAA_HeaderFooterNavigation_Verification</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c9cb6a95-6502-4289-bbef-0a41f9265ee3</testCaseGuid>
+</TestCaseEntity>

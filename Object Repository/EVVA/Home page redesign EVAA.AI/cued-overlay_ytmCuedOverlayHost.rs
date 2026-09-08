@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>cued-overlay_ytmCuedOverlayHost</name>
+   <tag></tag>
+   <elementGuidId>7a6269ae-0395-40b8-bc6a-96af4114facb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.ytmCuedOverlayHost</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ytmCuedOverlayHost ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>cued-overlay</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>cued-overlay</value>
+      <webElementGuid>bd734b7b-45ac-41cc-b6a8-ac7819bd51fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ytmCuedOverlayHost</value>
+      <webElementGuid>314377d6-3325-4274-839b-8c0538ab611c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c3320d451fa03af6b5a7dda3be4a5ab0</value>
+      <webElementGuid>6b5bb517-af51-4aa6-8a60-3f01de95d20d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ytmCuedOverlayHost ')]</value>
+      <webElementGuid>636f161d-adf8-45a6-ba71-5511ae753ba4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/EVVA/Home page redesign EVAA.AI/iframe_mfp-iframe</value>
+      <webElementGuid>8b6b4e10-11f3-45e8-8da8-93e9699d524c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ytmCuedOverlayHost ')]</value>
+      <webElementGuid>109f7944-c10e-460c-a9cb-a59bc6f61770</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

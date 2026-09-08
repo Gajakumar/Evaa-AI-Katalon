@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_India () 91</name>
+   <tag></tag>
+   <elementGuidId>6c5a500f-7c04-4b8f-9e03-5b7ab0d1ad57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.hsfc-PhoneInput .hsfc-DropdownOptions__List__ListItem:nth-child(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' hsfc-PhoneInput ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' hsfc-DropdownOptions__List__ListItem ') and (position() = 2)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;🇦🇱 Albania (Shqipëri) +355&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>f5beb3fd-8230-468a-a025-9c3befdaaa57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>ec7276b5-aae8-4467-8b08-9cf3a3436c83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>d2a28444-ef10-4d62-9ca6-1e8c0638bb45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>c39a8869-2042-478a-a807-2e4ee5860d57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hsfc-DropdownOptions__List__ListItem</value>
+      <webElementGuid>7ec032ef-4362-4866-9898-14b2edbfba8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>🇦🇱 Albania (Shqipëri) +355</value>
+      <webElementGuid>91c23376-71d7-43fc-8127-1b4af996f794</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-dd5cbcf41c295f21be153137021bc3b3</value>
+      <webElementGuid>d7110df8-2681-47e1-aea6-e7ef848d01ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' hsfc-PhoneInput ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' hsfc-DropdownOptions__List__ListItem ') and (position() = 2)]</value>
+      <webElementGuid>148a599a-f6bd-4f5d-8f90-0058e2d5c79c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' hsfc-PhoneInput ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' hsfc-DropdownOptions__List__ListItem ') and (position() = 2)]</value>
+      <webElementGuid>97a7bde7-c0a3-41d4-babc-433e1b072475</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '🇦🇱 Albania (Shqipëri) +355' or . = '🇦🇱 Albania (Shqipëri) +355')]</value>
+      <webElementGuid>ec4aaf1a-9915-430d-8236-730a7c91bb49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

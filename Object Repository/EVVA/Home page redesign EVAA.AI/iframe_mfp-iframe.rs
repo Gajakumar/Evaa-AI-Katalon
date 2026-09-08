@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_mfp-iframe</name>
+   <tag></tag>
+   <elementGuidId>0cf37558-5f2d-4cfa-a98e-fe9f02ca55d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[allow=&quot;autoplay\;\ encrypted-media&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@allow = 'autoplay; encrypted-media']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>iframe >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>05caf229-e4b7-4dda-838a-daf45cc30028</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mfp-iframe</value>
+      <webElementGuid>a0150d84-46e0-47c3-96a3-0afc94b8e0a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//www.youtube.com/embed/GCD_7BSdgJU?v=GCD_7BSdgJU</value>
+      <webElementGuid>91ba5bf4-4dbc-4408-b672-1c6336cce52b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>frameborder</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>5c5204d8-e016-4596-980d-4559f4684c87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>allow</name>
+      <type>Main</type>
+      <value>autoplay; encrypted-media</value>
+      <webElementGuid>f9929c20-2eff-4175-8d63-632b69382410</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-86eb6d90d35cb141af9cac66810e7f10</value>
+      <webElementGuid>83c39245-bea3-4ac6-84d2-b39d3c835145</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@allow = 'autoplay; encrypted-media']</value>
+      <webElementGuid>f37f3236-c8c5-43a6-9f21-454c2fa603e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@allow = 'autoplay; encrypted-media']</value>
+      <webElementGuid>d1f0a2dd-d094-4f82-955b-264454f67106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@src = '//www.youtube.com/embed/GCD_7BSdgJU?v=GCD_7BSdgJU']</value>
+      <webElementGuid>d6dcdcbb-cb6a-4118-b658-add827f05fdd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_EVAA_Verify_Broken_Links_On_Page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ed9b9dec-8440-4740-a11f-a287cc9760c6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Billing  meet EVAA Billing Assistant</name>
+   <tag></tag>
+   <elementGuidId>654cc23b-a46e-4029-924a-e6eef04a4e94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-label=&quot;Billing\ —\ meet\ EVAA\ Billing\ Assistant&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-label = 'Billing — meet EVAA Billing Assistant']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Billing — meet EVAA Billing Assistant&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>49305748-711a-4b7d-8afc-26d24b8b287b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hs</value>
+      <webElementGuid>a6930a58-d6a4-44e0-ac4b-43d952d1e688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>426682e9-eb82-4cb3-b33e-c0d81d351685</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-zone</name>
+      <type>Main</type>
+      <value>billing</value>
+      <webElementGuid>4c971817-0840-48c3-a87e-7e7dd44a8808</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Billing — meet EVAA Billing Assistant</value>
+      <webElementGuid>b7623df0-237d-413c-86c7-98350e17d260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BBilling</value>
+      <webElementGuid>e9e7035f-c827-419f-9e29-b7b55e0cb6f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-f658a0e4778393efbd7e97428ed6f499</value>
+      <webElementGuid>f80d4188-9d91-48cf-9672-d91262d61639</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-label = 'Billing — meet EVAA Billing Assistant']</value>
+      <webElementGuid>82c1c0dc-ee5c-43dd-83cb-33b7ad5b19f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-label = 'Billing — meet EVAA Billing Assistant']</value>
+      <webElementGuid>2b83512c-7082-4efa-ad99-96ba17fe7ca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'BBilling' or . = 'BBilling')]</value>
+      <webElementGuid>8d08c076-3761-4812-9289-52f2533676f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
