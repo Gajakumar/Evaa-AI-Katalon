@@ -4,10 +4,10 @@
    <name>EVAA AI</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <mailRecipient></mailRecipient>
-   <maxConcurrentInstances>1</maxConcurrentInstances>
-   <numberOfRerun>3</numberOfRerun>
-   <orchestration>CLASSIC</orchestration>
+   <mailRecipient>gajakumara@first-insight.com;</mailRecipient>
+   <maxConcurrentInstances>4</maxConcurrentInstances>
+   <numberOfRerun>0</numberOfRerun>
+   <orchestration>ISOLATED_PROCESS</orchestration>
    <pageLoadTimeout>10</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>

@@ -507,6 +507,25 @@ BookDemoPage.navigateTo(GlobalVariable.Url)
 // Step 1 - Open the "Book a Demo" modal from the landing page
 BookDemoPage.openBookDemoModal()
 
+CustomKeywords.'utils.PageLoadChecker.verifyPageLoaded'()
+
+CustomKeywords.'utils.JavaScriptErrorCollector.startCollector'()
+
+CustomKeywords.'utils.NetworkErrorCollector.startCollector'()
+
+CustomKeywords.'utils.ImageChecker.verifyAllImages'(5)
+
+CustomKeywords.'utils.ResponsiveChecker.verifyResponsiveLayout'()
+
+CustomKeywords.'utils.EnvironmentUrlChecker.verifyNoDevOrStagingUrls'()
+
+//Veify Broken links with tag <a>
+CustomKeywords.'utils.BrokenLinkChecker.verifyVisibleLinks'()
+
+CustomKeywords.'utils.JavaScriptErrorCollector.verifyNoJavaScriptErrors'()
+
+CustomKeywords.'utils.NetworkErrorCollector.verifyNoNetworkErrors'()
+
 // Verify the modal opened with the expected title and intro copy
 BookDemoPage.verifyBookDemoModalVisible()
 BookDemoPage.verifyModalTitle()

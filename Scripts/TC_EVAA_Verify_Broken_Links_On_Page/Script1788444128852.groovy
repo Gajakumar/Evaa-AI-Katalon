@@ -100,19 +100,28 @@ CustomKeywords.'utils.JavaScriptErrorCollector.startCollector'()
 // RUN BROKEN LINK CHECKER
 // ==========================================================
 
+KeywordUtil.logInfo("BASELINE_STORAGE_URL = " + System.getenv("BASELINE_STORAGE_URL"))
+
 CustomKeywords.'utils.NetworkErrorCollector.startCollector'()
 
+// original behavior, just with proper waiting now:
 CustomKeywords.'utils.PageLoadChecker.verifyPageLoaded'()
 
-CustomKeywords.'utils.ImageChecker.verifyAllImages'()
+// stronger check for an SPA - also confirms real content rendered:
+//CustomKeywords.'utils.PageLoadChecker.verifyPageLoaded'(10, '//*[@id="results"]/div/div[2]')
+
+CustomKeywords.'utils.ImageChecker.verifyAllImages'(5)
 
 CustomKeywords.'utils.ResponsiveChecker.verifyResponsiveLayout'()
+
+// with a longer settle time and a known decorative exception:
+CustomKeywords.'utils.ResponsiveChecker.verifyResponsiveLayout'(600, ['.marquee-ticker'])
 
 CustomKeywords.'utils.EnvironmentUrlChecker.verifyNoDevOrStagingUrls'()
 
 //Veify Broken links with tag <a>
 CustomKeywords.'utils.BrokenLinkChecker.verifyVisibleLinks'()
 
-CustomKeywords.'utils.JavaScriptErrorCollector.verifyNoJavaScriptErrors'()
+CustomKeywords.'utils.JavaScriptErrorCollector.verifyNoJavaScriptErrors'() 
 
 CustomKeywords.'utils.NetworkErrorCollector.verifyNoNetworkErrors'()
