@@ -23,6 +23,9 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.util.KeywordUtil
 import com.kms.katalon.core.webui.common.WebUiCommonHelper
 import customkeywords.InputHelper
+import org.openqa.selenium.WebElement
+import com.kms.katalon.core.webui.driver.DriverFactory
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 class BookDemoPage {
 
@@ -228,8 +231,13 @@ class BookDemoPage {
 	}
 
 	/** Clicks the alternate "Next" button reference (Step 1, second visible instance). */
+//	static void clickNextStepAlt() {
+//		WebUI.click(nextStepButtonAlt)
+//	}
+	
 	static void clickNextStepAlt() {
-		WebUI.click(nextStepButtonAlt)
+		WebElement nextBtn = WebUI.findWebElement(nextStepButtonAlt, 10)
+		WebUI.executeJavaScript('arguments[0].click();', Arrays.asList(nextBtn))
 	}
 
 	/** Clicks into the First Name field (used to trigger blur validation on the next field). */

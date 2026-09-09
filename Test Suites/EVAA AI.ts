@@ -5,7 +5,7 @@
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient>gajakumara@first-insight.com;</mailRecipient>
-   <maxConcurrentInstances>4</maxConcurrentInstances>
+   <maxConcurrentInstances>1</maxConcurrentInstances>
    <numberOfRerun>0</numberOfRerun>
    <orchestration>ISOLATED_PROCESS</orchestration>
    <pageLoadTimeout>10</pageLoadTimeout>
@@ -13,13 +13,6 @@
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>d4ed2a2b-e30e-4f4e-9053-bf9d91b7832d</testSuiteGuid>
-   <testCaseLink>
-      <guid>5a50b6f9-e5d5-4d41-99db-4372cf64fb83</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_EVAA_BookDemo_Verification</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
    <testCaseLink>
       <guid>b4c59e07-d4c9-4a3f-bc2f-e2974538393e</guid>
       <isReuseDriver>false</isReuseDriver>

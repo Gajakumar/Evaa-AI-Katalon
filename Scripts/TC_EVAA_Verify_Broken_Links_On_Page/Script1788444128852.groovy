@@ -102,6 +102,8 @@ CustomKeywords.'utils.JavaScriptErrorCollector.startCollector'()
 
 KeywordUtil.logInfo("BASELINE_STORAGE_URL = " + System.getenv("BASELINE_STORAGE_URL"))
 
+CustomKeywords.'utils.NavigationChecker.verifyNavigation'(GlobalVariable.Url)
+
 CustomKeywords.'utils.NetworkErrorCollector.startCollector'()
 
 // original behavior, just with proper waiting now:
